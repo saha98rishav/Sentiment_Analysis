@@ -9,7 +9,7 @@ The model has been trained with 'Amazon Fine Food Review' dataset. --> 'Reviews.
 
 Model is trained in Google Cloud Platform with a system having 60GB of RAM
 
-Model is trained with another dataset from Amazon Product Review.
+Model is tested with another dataset from Amazon Product Review.
 
 Link for the Dataset --> https://drive.google.com/open?id=1UYhTHm6KHRsdFhU36H6ES39k2Mwb1mL3
 
