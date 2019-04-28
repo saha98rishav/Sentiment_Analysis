@@ -17,4 +17,7 @@ These datasets are also available on www.kaggle.com
 
 By using the 'automate.py' sript the analysis can be done without using Jupyter Notebook
 
+Saved Model Files are --> 'model_joblib' & 'model_pickle'
+Use any of these files to get predictions without training any model
+
 Author : Rishav Saha
