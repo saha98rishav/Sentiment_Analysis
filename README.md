@@ -5,7 +5,7 @@ Logistic Regression had greater accuracy so, Logistic Regression has been used h
 
 N.B. --> Multinomial Logistic Regression, solver = NewtonCG
 
-The model has been trained with 'Amazon Fine Food Review' dataset.
+The model has been trained with 'Amazon Fine Food Review' dataset. --> 'Reviews.csv'
 
 Model is trained in Google Cloud Platform with a system having 60GB of RAM
 
